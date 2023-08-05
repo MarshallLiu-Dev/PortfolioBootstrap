@@ -26,7 +26,7 @@ programa de bolsas da Compass UOL. Estou aprendendo e desenvolvendo meus conheci
 * Linguagens de programação: HTML, CSS, JavaScript, Java
 * Frameworks front-end: React JS, Bootstrap
 * Frameworks back-end: Node.js, Express.js
-* Bancos de Dados: MySQL, MongoDB
+* Bancos de Dados: MySQL, MongoDB, FireBase
 * Controle de Versão: Git
 
 
